@@ -1,0 +1,8 @@
+org/example/ThemeParkApplication.java
+ org.example.ThemeParkApplication
+org/example/controller/ThemeParkRideController.java
+ org.example.controller.ThemeParkRideController
+org/example/repository/ThemeParkRideRepository.java
+ org.example.repository.ThemeParkRideRepository
+org/example/entity/ThemeParkRide.java
+ org.example.entity.ThemeParkRide
